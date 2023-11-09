@@ -11,7 +11,8 @@ body {
 
 h1, h3 {
   color: white;
-  font-family: 'Russo One';font-size: 22px;
+  font-family: 'Russo One';
+  display: flex;
 }
 
 
