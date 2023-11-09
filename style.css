@@ -1,6 +1,7 @@
 body {
   background-color: lightblue;
   background-image: linear-gradient(to bottom right, #00127F, #C900F0);
+  min-height: 100vh
 }
 
 h1, h3 {
@@ -9,3 +10,4 @@ h1, h3 {
   ont-family: 'Russo One';font-size: 22px;
 }
 
+html, body { min-height: 100vh; }
