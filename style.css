@@ -1,0 +1,11 @@
+body {
+  background-color: lightblue;
+  background-image: linear-gradient(to bottom right, #00127F, #C900F0);
+}
+
+h1, h3 {
+  color: white;
+  align: center;
+  ont-family: 'Russo One';font-size: 22px;
+}
+
