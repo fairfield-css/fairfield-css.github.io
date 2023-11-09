@@ -1,7 +1,7 @@
 body {
   background-color: lightblue;
   background-image: linear-gradient(to bottom right, #00127F, #C900F0);
-  min-height: 100vh
+  min-height: 100%;
 }
 
 h1, h3 {
